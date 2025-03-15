@@ -1,0 +1,19 @@
+
+body {
+  font-family: cursive;
+  background-color: skyBlue;
+}
+
+
+p {
+  color:black;
+  font-size:20px;
+  align-content:center;
+  
+}
+#image{
+  align-content:center;
+  justify-content:center;
+  height:200px;
+  float:right;
+}
